@@ -1,0 +1,14 @@
+{
+  "prefix": ".",
+  "token": "MTE0NjM1NTU0NTY0OTk3OTQzMw.G-silV.YUDMgi-m1QQ7VZc6MTioYvcUkFKhcgR2-SLT8U",
+  "owners": ["OWNER ID"],
+  "footer": "discord.gg/nudesland",
+  "MAIN_COLOR": "#e56712",
+  "ERROR_COLOR": "#b00000",
+
+  "msg": {
+    "nsfwWarn": "Lütfen Bu Komutu Bir **NSFW** Kanalında Kullanın!",
+    "loading": "Lütfen Bekleyin...",
+    "imageNotLoading": "Resim Yüklenmiyor mu? Buraya Tıkla"
+  }
+}
